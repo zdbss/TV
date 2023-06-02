@@ -1,0 +1,1486 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00001",
+            "urllist": "http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00002",
+            "urllist": "https://17186.eu.org/php/phtv/fhzx.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00003",
+            "urllist": "http://r.jdshipin.com/cCCzW"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00004",
+            "urllist": "http://cc.qiyuevod.com/ustv/feng.php?id=2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00005",
+            "urllist": "https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00006",
+            "urllist": "http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00007",
+            "urllist": "https://17186.eu.org/php/phtv/fhzx.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00008",
+            "urllist": "http://r.jdshipin.com/0Rp07"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00009",
+            "urllist": "http://cc.qiyuevod.com/ustv/feng.php?id=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00010",
+            "urllist": "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00011",
+            "urllist": "https://17186.eu.org/php/phtv/fhhk.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00012",
+            "urllist": "http://cc.qiyuevod.com/ustv/feng.php?id=3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "澳门莲花",
+            "num": "00013",
+            "urllist": "https://cntv.sbs/lhws"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "澳门莲花",
+            "num": "00014",
+            "urllist": "http://cc.qiyuevod.com/ustv/lotustv.php"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "澳门莲花",
+            "num": "00015",
+            "urllist": "http://anren.live/HK/BiIOU11uLA.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "澳门莲花",
+            "num": "00016",
+            "urllist": "http://nettvpro.live/hls/lotustv.php"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "星空卫视",
+            "num": "00017",
+            "urllist": "http://120.84.96.82:808/hls/79/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "星空卫视",
+            "num": "00018",
+            "urllist": "http://120.84.96.87:808/hls/79/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "星空卫视",
+            "num": "00019",
+            "urllist": "http://120.84.96.89:808/hls/79/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00020",
+            "urllist": "http://r.jdshipin.com/62WM7"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00021",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h002"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00022",
+            "urllist": "http://r.jdshipin.com/n90gt"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "翡翠台",
+            "num": "00023",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1350_4500"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "明珠台",
+            "num": "00024",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1351_4500"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "明珠台",
+            "num": "00025",
+            "urllist": "http://radius.8866.org:800/hls/84/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "明珠台",
+            "num": "00026",
+            "urllist": "http://shazui.8866.org:800/hls/84/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB J2",
+            "num": "00027",
+            "urllist": "http://r.jdshipin.com/Nr5jq"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB J2",
+            "num": "00028",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h003"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVB J2",
+            "num": "00029",
+            "urllist": "http://r.jdshipin.com/ndGgS"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻",
+            "num": "00030",
+            "urllist": "http://r.jdshipin.com/CkuBd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻",
+            "num": "00031",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h004"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线新闻",
+            "num": "00032",
+            "urllist": "http://live.cooltv.top/tv/tvb.php?id=0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线财经",
+            "num": "00033",
+            "urllist": "http://r.jdshipin.com/jUx8K"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线财经",
+            "num": "00034",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h005"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无线财经",
+            "num": "00035",
+            "urllist": "http://live.cooltv.top/tv/tvb.php?id=2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "有线新闻",
+            "num": "00036",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h008"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "有线财经",
+            "num": "00037",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h009"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ViuTV",
+            "num": "00038",
+            "urllist": "http://r.jdshipin.com/vSJvl"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HoyTV",
+            "num": "00039",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h010"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Hoy资讯",
+            "num": "00040",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h011"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "RTHK31",
+            "num": "00041",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h006"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "RTHK32",
+            "num": "00042",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h007"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "台视",
+            "num": "00043",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv071"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "台视",
+            "num": "00044",
+            "urllist": "rtmp://219.80.97.77/sat/tv071"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "台视",
+            "num": "00045",
+            "urllist": "rtmp://119.81.124.89/sat/tv071"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "中视",
+            "num": "00046",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv091"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "中视",
+            "num": "00047",
+            "urllist": "rtmp://219.80.97.77/sat/tv091"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "中视",
+            "num": "00048",
+            "urllist": "rtmp://119.81.124.89/sat/tv091"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视",
+            "num": "00049",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv051"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视",
+            "num": "00050",
+            "urllist": "rtmp://219.80.97.77/sat/tv051"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视",
+            "num": "00051",
+            "urllist": "rtmp://119.81.124.89/sat/tv051"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视第一",
+            "num": "00052",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t018"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视台湾",
+            "num": "00053",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t019"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视综艺",
+            "num": "00054",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t020"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视影剧",
+            "num": "00055",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t021"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视旅游",
+            "num": "00056",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t022"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "华视",
+            "num": "00057",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv111"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "华视",
+            "num": "00058",
+            "urllist": "rtmp://219.80.97.77/sat/tv111"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "华视",
+            "num": "00059",
+            "urllist": "rtmp://119.81.124.89/sat/tv111"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "台视新闻",
+            "num": "00060",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t012"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "中视新闻",
+            "num": "00061",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t005"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "民视新闻",
+            "num": "00062",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t006"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "华视新闻",
+            "num": "00063",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t004"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "TVBS",
+            "num": "00064",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t014"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "TVBS新闻",
+            "num": "00065",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t013"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "TVBS新闻",
+            "num": "00066",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv551"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "TVBS新闻",
+            "num": "00067",
+            "urllist": "rtmp://219.80.97.77/sat/tv551"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "TVBS新闻",
+            "num": "00068",
+            "urllist": "rtmp://119.81.124.89/sat/tv551"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "TVBS欢乐",
+            "num": "00069",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv421"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "TVBS欢乐",
+            "num": "00070",
+            "urllist": "rtmp://219.80.97.77/sat/tv421"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "TVBS欢乐",
+            "num": "00071",
+            "urllist": "rtmp://119.81.124.89/sat/tv421"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "中天新闻",
+            "num": "00072",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t003"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森新闻",
+            "num": "00073",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t001"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森财经",
+            "num": "00074",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t002"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森财经",
+            "num": "00075",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv571"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森财经",
+            "num": "00076",
+            "urllist": "rtmp://219.80.97.77/sat/tv571"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森财经",
+            "num": "00077",
+            "urllist": "rtmp://119.81.124.89/sat/tv571"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森超视",
+            "num": "00078",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv331"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森超视",
+            "num": "00079",
+            "urllist": "rtmp://219.80.97.77/sat/tv331"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森超视",
+            "num": "00080",
+            "urllist": "rtmp://119.81.124.89/sat/tv331"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森幼幼",
+            "num": "00081",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t026"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "寰宇国际新闻",
+            "num": "00082",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t007"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "寰宇台湾新闻",
+            "num": "00083",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t008"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "三立新闻",
+            "num": "00084",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t010"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "三立新闻+",
+            "num": "00085",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t011"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "三立财经",
+            "num": "00086",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t009"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "三立台湾",
+            "num": "00087",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t023"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "三立都会",
+            "num": "00088",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t024"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来日本",
+            "num": "00089",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv771"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来日本",
+            "num": "00090",
+            "urllist": "rtmp://219.80.97.77/sat/tv771"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来日本",
+            "num": "00091",
+            "urllist": "rtmp://119.81.124.89/sat/tv771"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来育乐",
+            "num": "00092",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv701"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来育乐",
+            "num": "00093",
+            "urllist": "rtmp://219.80.97.77/sat/tv701"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来育乐",
+            "num": "00094",
+            "urllist": "rtmp://119.81.124.89/sat/tv701"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来体育",
+            "num": "00095",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv721"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来体育",
+            "num": "00096",
+            "urllist": "rtmp://219.80.97.77/sat/tv721"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "纬来体育",
+            "num": "00097",
+            "urllist": "rtmp://119.81.124.89/sat/tv721"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "中天综合",
+            "num": "00098",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t015"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "中天亚洲",
+            "num": "00099",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t016"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森电影",
+            "num": "00100",
+            "urllist": "http://120.84.96.82:808/hls/32/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森电影",
+            "num": "00101",
+            "urllist": "http://120.84.96.87:808/hls/32/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森电影",
+            "num": "00102",
+            "urllist": "http://120.84.96.89:808/hls/32/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森洋片",
+            "num": "00103",
+            "urllist": "http://120.84.96.82:808/hls/33/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森洋片",
+            "num": "00104",
+            "urllist": "http://120.84.96.87:808/hls/33/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东森洋片",
+            "num": "00105",
+            "urllist": "http://120.84.96.89:808/hls/33/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "龙祥时代",
+            "num": "00106",
+            "urllist": "http://120.84.96.82:808/hls/35/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "龙祥时代",
+            "num": "00107",
+            "urllist": "http://120.84.96.87:808/hls/35/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "龙祥时代",
+            "num": "00108",
+            "urllist": "http://120.84.96.89:808/hls/35/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "好莱坞电影",
+            "num": "00109",
+            "urllist": "http://120.84.96.82:808/hls/24/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "好莱坞电影",
+            "num": "00110",
+            "urllist": "http://120.84.96.87:808/hls/24/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "好莱坞电影",
+            "num": "00111",
+            "urllist": "http://120.84.96.89:808/hls/24/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "MOMO综合",
+            "num": "00112",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv761"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "MOMO综合",
+            "num": "00113",
+            "urllist": "rtmp://219.80.97.77/sat/tv761"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "MOMO综合",
+            "num": "00114",
+            "urllist": "rtmp://119.81.124.89/sat/tv761"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "ELEVEN 1",
+            "num": "00115",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv731"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "ELEVEN 1",
+            "num": "00116",
+            "urllist": "rtmp://219.80.97.77/sat/tv731"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "ELEVEN 1",
+            "num": "00117",
+            "urllist": "rtmp://119.81.124.89/sat/tv731"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "ELEVEN 2",
+            "num": "00118",
+            "urllist": "rtmp://9wv7.mine.nu/sat/tv741"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "ELEVEN 2",
+            "num": "00119",
+            "urllist": "rtmp://219.80.97.77/sat/tv741"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "ELEVEN 2",
+            "num": "00120",
+            "urllist": "rtmp://119.81.124.89/sat/tv741"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "番薯台",
+            "num": "00121",
+            "urllist": "http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "面包台",
+            "num": "00122",
+            "urllist": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "大爱1台",
+            "num": "00123",
+            "urllist": "https://pulltv2.wanfudaluye.com/live/tv1.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "大爱2台",
+            "num": "00124",
+            "urllist": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "人间卫视",
+            "num": "00125",
+            "urllist": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "翡翠台",
+            "num": "00126",
+            "urllist": "http://nas.jdshipin.com:8801/gudoufc.php"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "明珠台",
+            "num": "00127",
+            "urllist": "http://nas.jdshipin.com:8801/gudoumz.php"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVBS",
+            "num": "00128",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=1"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVBS新闻",
+            "num": "00129",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=0"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "台视新闻",
+            "num": "00130",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=4"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "中视新闻",
+            "num": "00131",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=6"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "民视新闻",
+            "num": "00132",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=13"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "华视新闻",
+            "num": "00133",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=16"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "东森新闻",
+            "num": "00134",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=2"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "东森财经",
+            "num": "00135",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=7"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "中天新闻",
+            "num": "00136",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=3"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "寰宇新闻",
+            "num": "00137",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=5"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "三立LIVE",
+            "num": "00138",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "三立iNEWS",
+            "num": "00139",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=9"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "三立iNEWS+",
+            "num": "00140",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=10"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "镜新闻",
+            "num": "00141",
+            "urllist": "http://45.154.14.89/uszb/live.php?id=11"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "纬来体育",
+            "num": "00142",
+            "urllist": "https://cloud.yumixiu768.com/tmp/123.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "東森新聞",
+            "num": "00143",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t001"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "東森財經新聞",
+            "num": "00144",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t002"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "中天新聞",
+            "num": "00145",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t003"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "華視新聞",
+            "num": "00146",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t004"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "中視新聞",
+            "num": "00147",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t005"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "民視新聞",
+            "num": "00148",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t006"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "寰宇國際新聞",
+            "num": "00149",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t007"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "寰宇台灣新聞",
+            "num": "00150",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t008"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "三立財經新聞",
+            "num": "00151",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t009"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "三立新聞",
+            "num": "00152",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t010"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "三立新聞+",
+            "num": "00153",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t011"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "台視新聞",
+            "num": "00154",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t012"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "TVBS新聞",
+            "num": "00155",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t013"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "TVBS財經",
+            "num": "00156",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t014"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "中天亞洲台",
+            "num": "00157",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t015"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "TVBS亞洲台",
+            "num": "00158",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t016"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "民視HD",
+            "num": "00159",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t017"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "民視第一台",
+            "num": "00160",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t018"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "民視台灣台",
+            "num": "00161",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t019"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "民視綜藝台",
+            "num": "00162",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t020"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "民視影劇台",
+            "num": "00163",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t021"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "民視旅遊台",
+            "num": "00164",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t022"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "三立台灣",
+            "num": "00165",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t023"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "三立都會",
+            "num": "00166",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t024"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "天才衝衝衝",
+            "num": "00167",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t025"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "東森yoyo",
+            "num": "00168",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=t026"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "翡翠台",
+            "num": "00169",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h002"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "J2",
+            "num": "00170",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h003"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "無綫新聞台",
+            "num": "00171",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h004"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "無綫財經·體育·資訊台",
+            "num": "00172",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h005"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "港台电视31",
+            "num": "00173",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h006"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "港台电视32",
+            "num": "00174",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h007"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "有線新聞台",
+            "num": "00175",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h008"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "有線財經資訊台",
+            "num": "00176",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h009"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "HOY",
+            "num": "00177",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h010"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "香港國際財經台",
+            "num": "00178",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h011"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "HOY資訊台",
+            "num": "00179",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h012"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "鳳凰衛視中文台",
+            "num": "00180",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h014"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "鳳凰衛視香港台",
+            "num": "00181",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h015"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "澳門蓮花衛視",
+            "num": "00182",
+            "urllist": "http://sc2022.stream-link.org/list.php?id=h016"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "酒店_广东体育",
+            "num": "00183",
+            "urllist": "http://218.15.229.90:9901/tsfile/live/1001_1.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_广东体育",
+            "num": "00184",
+            "urllist": "http://r.jdshipin.com/LiYdg"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "酒店_广东珠江",
+            "num": "00185",
+            "urllist": "http://157.122.177.10:9901/tsfile/live/1007_1.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_GRTN文化",
+            "num": "00186",
+            "urllist": "https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_GRTN文化",
+            "num": "00187",
+            "urllist": "http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdwh&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_大湾区卫视",
+            "num": "00188",
+            "urllist": "http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东新闻",
+            "num": "00189",
+            "urllist": "http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdxw&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东经济",
+            "num": "00190",
+            "urllist": "http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东民生",
+            "num": "00191",
+            "urllist": "http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgg&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东珠江",
+            "num": "00192",
+            "urllist": "http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东综艺",
+            "num": "00193",
+            "urllist": "http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东影视",
+            "num": "00194",
+            "urllist": "http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs4&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东少儿",
+            "num": "00195",
+            "urllist": "http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs5&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东体育",
+            "num": "00196",
+            "urllist": "http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdty&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东移动",
+            "num": "00197",
+            "urllist": "http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdyd&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_广东国际",
+            "num": "00198",
+            "urllist": "http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgj&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "触电_嘉佳卡通",
+            "num": "00199",
+            "urllist": "http://v2.91kds.cn/b9/itouchtv.m3u8?id=gdjjkt&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_深圳龙岗",
+            "num": "00200",
+            "urllist": "https://lglivepull.sznews.com/live/2647.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_深圳东部",
+            "num": "00201",
+            "urllist": "https://lglivepull.sznews.com/live/2646.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_广州综合",
+            "num": "00202",
+            "urllist": "https://justsometime.gztv.com/sec/zhonghe.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_广州法治",
+            "num": "00203",
+            "urllist": "https://justsometime.gztv.com/sec/fazhi.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_广州新闻",
+            "num": "00204",
+            "urllist": "https://justsometime.gztv.com/sec/xinwen.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_广州竞赛",
+            "num": "00205",
+            "urllist": "https://justsometime.gztv.com/sec/jingsai.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_广州影视",
+            "num": "00206",
+            "urllist": "https://justsometime.gztv.com/sec/yingshi.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "静态_南国都市",
+            "num": "00207",
+            "urllist": "https://justsometime.gztv.com/sec/shenghuos.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "代理_广州综合",
+            "num": "00208",
+            "urllist": "http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzzh&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "代理_广州新闻",
+            "num": "00209",
+            "urllist": "http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzxw&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "代理_广州法治",
+            "num": "00210",
+            "urllist": "http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzjj&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "代理_广州竞赛",
+            "num": "00211",
+            "urllist": "http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzjs&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "代理_广州影视",
+            "num": "00212",
+            "urllist": "http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzys&auth=rinimabi"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东综艺4K",
+            "num": "00213",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GDZYHD4K_38000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "翡翠台",
+            "num": "00214",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1350_4500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "明珠台",
+            "num": "00215",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1351_4500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "凤凰中文.标清",
+            "num": "00216",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=fhzw_1500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "星空卫视.标清",
+            "num": "00217",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=xingkong_1500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "澳亚卫视.标清",
+            "num": "00218",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=aoya_1500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "乐游频道",
+            "num": "00219",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=quanjishiHD_7000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "求索纪录",
+            "num": "00220",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSJLHD_7000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "求索科学",
+            "num": "00221",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=qiusuokexueHD_7000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "求索动物",
+            "num": "00222",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSDWHD_7000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "求索生活",
+            "num": "00223",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSSHHD_7000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "魅力足球",
+            "num": "00224",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meiliyinyueHD_7000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "劲爆体育",
+            "num": "00225",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=jinbaotiyuHD_7000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "大湾区卫视",
+            "num": "00226",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1456"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东新闻",
+            "num": "00227",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1454"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东珠江",
+            "num": "00228",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gdzhujiangHD_7500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东体育",
+            "num": "00229",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1413"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东民生",
+            "num": "00230",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1455"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东经济科教",
+            "num": "00231",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GDjingjikejiaoHD_7000"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东影视",
+            "num": "00232",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1458"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东少儿",
+            "num": "00233",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1457"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广州综合",
+            "num": "00234",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzhounewsHD"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广州新闻",
+            "num": "00235",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzhouzongheHD"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "G导视高清",
+            "num": "00236",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GHDdaoshi_7500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "嘉佳卡通",
+            "num": "00237",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1459"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广州综合.标清",
+            "num": "00238",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=guangzhou_1500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广州新闻.标清",
+            "num": "00239",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gznews_1500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广州法治.标清",
+            "num": "00240",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzeconomic_1500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广州竞赛.标清",
+            "num": "00241",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzcompetition_1500"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广州影视.标清",
+            "num": "00242",
+            "urllist": "http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzfilms_1500"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "蓝雨港澳,#genre#"
+        },
+        {
+            "id": "uid0001",
+            "name": "蓝雨台湾,#genre#"
+        },
+        {
+            "id": "uid0002",
+            "name": "蓝雨测试,#genre#"
+        },
+        {
+            "id": "uid0003",
+            "name": "Stream台湾,#genre#"
+        },
+        {
+            "id": "uid0004",
+            "name": "Stream港澳,#genre#"
+        },
+        {
+            "id": "uid0005",
+            "name": "广东,#genre#"
+        },
+        {
+            "id": "uid0006",
+            "name": "谷逗,#genre#"
+        }
+    ]
+}
