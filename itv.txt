@@ -1,0 +1,8 @@
+<html>
+<head><title>Authentication Failed</title></head>
+<body>
+<br>
+<center><h4>认证token参数不正确，请加群联系管理员 -> QQ群：<a href="https://qm.qq.com/q/vLsUs62k2A">881229313</a></h4></center>
+<hr><center>！！！温馨提示！！！</center>
+</body>
+</html>
