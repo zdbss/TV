@@ -16,8 +16,44 @@
 请马上卸载,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg74qw4gUo0ZG70AM.mp4
 请低调使用,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg74qw4gUo0ZG70AM.mp4
 
-
 全网,#genre#
+CCTV1 综合,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000501
+CCTV2 财经,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502
+CCTV3 综艺,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000003
+CCTV4 中文国际,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000503
+CCTV5 体育,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000005
+CCTV6 电影,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000006
+CCTV7 国防军事,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000504
+CCTV8 电视剧,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000008
+CCTV9 纪录,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000505
+CCTV10 科教,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000506
+CCTV11 戏曲,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000508
+CCTV12 社会与法,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000509
+CCTV14 少儿,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000511
+CCTV15 音乐,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000512
+CCTV16 奥林匹克,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000016
+CCTV17 农业农村,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000513
+黑龙江卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000521
+东南卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000519
+东方卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000518
+吉林卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000025
+天津卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000530
+安徽卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000514
+山东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000527
+江苏卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000524
+江西卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000525
+河北卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000057
+河南卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000027
+海南卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000037
+深圳卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000529
+湖北卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000522
+贵州卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000036
+重庆卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000517
+广西卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000034
+青海卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000042
+云南卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000035
+甘肃卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000023
+咪咕,#genre#
 CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
 CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
 CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3
@@ -82,6 +118,47 @@ CCTV俄语,http://tvbox6.icu/tv/migu.php?id=cgtnr
 安徽卫视,http://221.12.3.18:8980/live/安徽卫视/index.m3u8
 四川卫视,http://221.12.3.18:8980/live/四川卫视/index.m3u8
 吉林卫视,http://221.12.3.18:8980/live/吉林卫视/index.m3u8
+CCTV1,http://ttkx.live:77/ak801/migu.php?id=cctv1
+CCTV2,http://ttkx.live:77/ak801/migu.php?id=cctv2
+CCTV3,http://ttkx.live:77/ak801/migu.php?id=cctv3
+CCTV4,http://ttkx.live:77/ak801/migu.php?id=cctv4
+CCTV5,http://ttkx.live:77/ak801/migu.php?id=cctv5
+CCTV5+,http://ttkx.live:77/ak801/migu.php?id=cctv5p
+CCTV6,http://ttkx.live:77/ak801/migu.php?id=cctv6
+CCTV7,http://ttkx.live:77/ak801/migu.php?id=cctv7
+CCTV8,http://ttkx.live:77/ak801/migu.php?id=cctv8
+CCTV9,http://ttkx.live:77/ak801/migu.php?id=cctv9
+CCTV10,http://ttkx.live:77/ak801/migu.php?id=cctv10
+CCTV11,http://ttkx.live:77/ak801/migu.php?id=cctv11
+CCTV12,http://ttkx.live:77/ak801/migu.php?id=cctv12
+CCTV13,http://ttkx.live:77/ak801/migu.php?id=cctv13
+CCTV14,http://ttkx.live:77/ak801/migu.php?id=cctv14
+CCTV15,http://ttkx.live:77/ak801/migu.php?id=cctv15
+CCTV16,http://117.114.153.18:8180/TV00000000000000000136,HHZT
+CCTV17,http://ttkx.live:77/ak801/migu.php?id=cctv17
+东方卫视,http://ttkx.live:77/ak801/migu.php?id=dfws
+吉林卫视,http://ttkx.live:77/ak801/migu.php?id=jlws
+青海卫视,http://ttkx.live:77/ak801/migu.php?id=qhws
+陕西卫视,http://ttkx.live:77/ak801/migu.php?id=sxws
+湖北卫视,http://ttkx.live:77/ak801/migu.php?id=hubws
+江西卫视,http://ttkx.live:77/ak801/migu.php?id=jxws
+江苏卫视,http://ttkx.live:77/ak801/migu.php?id=jsws
+广东卫视,http://ttkx.live:77/ak801/migu.php?id=gdws
+大湾区卫视,http://ttkx.live:77/ak801/migu.php?id=dwqws
+海南卫视,http://ttkx.live:77/ak801/migu.php?id=hinws
+重庆卫视,http://ttkx.live:77/ak801/migu.php?id=cqws
+辽宁卫视,http://ttkx.live:77/ak801/migu.php?id=lnws
+内蒙古卫视,http://ttkx.live:77/ak801/migu.php?id=nmws
+宁夏卫视,http://ttkx.live:77/ak801/migu.php?id=nxws
+甘肃卫视,http://ttkx.live:77/ak801/migu.php?id=gsws
+山东卫视,http://ttkx.live:77/ak801/migu.php?id=sdws
+湖南卫视,http://ttkx.live:77/ak801/migu.php?id=hunws
+四川卫视,http://ttkx.live:77/ak801/migu.php?id=scws
+新疆卫视,http://ttkx.live:77/ak801/migu.php?id=xjws
+西藏卫视,http://ttkx.live:77/ak801/migu.php?id=xzws
+四海钓鱼,http://ttkx.live:77/ak801/migu.php?id=shdy
+江苏教育,http://ttkx.live:77/ak801/migu.php?id=jsjy
+山东教育,http://ttkx.live:77/ak801/migu.php?id=sdjy
 
 中移,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -847,95 +924,86 @@ NHK新闻资讯台,mitv://135.148.104.228:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
 龙华电影,mitv://135.148.104.228:19806/40368423d7dc44baaac3fbfc644ee
 
 日本,#genre#
-ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
-BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
-BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
-BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
-BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
-J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-MBS毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
-NHK BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
-NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
-TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
-WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
-WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
-WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
-キッズステーション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
-ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
-スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
-スターチャンネル1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
-スターチャンネル2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
-スターチャンネル3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
-ディスカバリー,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
-テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
-テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
-テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
-ヒストリーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
-フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
-ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
-ミュージック?ジャパンTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
-旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
-日テレジータス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
-日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
-日本映画,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
-時代劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
-衛星劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+NHK-G综合,P2p://generationnexxxt.com:19806/55cb7e54e0ce4a35be97e49669a2f8a8
+NHK-E教育,P2p://generationnexxxt.com:19806/8935e2b129e645e4af642f99cdc2de81
+日本テレビ,P2p://generationnexxxt.com:19806/85374777f40d44a785f17ab7912e267e
+TBSテレビ,P2p://generationnexxxt.com:19806/2de1ec1252694a31919a78131a24eb43
+テレビ東京,P2p://generationnexxxt.com:19806/1a823472c62148dd96e66a8a392c22db
+フジテレビ,P2p://generationnexxxt.com:19806/5cf652dff531434b8319a56b17739a1b
+読売テレビ,P2p://generationnexxxt.com:19806/ea67f8077183401b9cd427fe6c60ff43
+関西テレビ,P2p://generationnexxxt.com:19806/e6990969a8ff44d3a2393dc2740b199d
+KBS京都,P2p://generationnexxxt.com:19806/ec891c1f1f57494cbcd94e4244363bb1
+毎日放送,P2p://generationnexxxt.com:19806/89122299c61c47028e662cc5f18904a7
+朝日放送,P2p://generationnexxxt.com:19806/ecb1db90b25142f0a02ce3b2a252e9ee
+テレビ大阪,P2p://generationnexxxt.com:19806/730fd599b2c94f779bd17ff2976fbccb
+BS-1,P2p://generationnexxxt.com:19806/32b371c498764d679ba7de1a2881eb92
+BS日テレ,P2p://generationnexxxt.com:19806/1cc0f6a660864a0cbc62cc717f9be80c
+BS朝日,P2p://generationnexxxt.com:19806/66b44ed5654d450cac9c7f5218eae625
+BS-TBS,P2p://generationnexxxt.com:19806/9ad609502c5541e5b3ef94e241f505d4
+BS11,P2p://generationnexxxt.com:19806/485dfb484fd44679b4c282e65ce5d40e
+BSフジ,P2p://generationnexxxt.com:19806/d9ef0270b9284921846d422841f2690c
+WOWOWプライム,P2p://generationnexxxt.com:19806/0ffe438d9ca34c629ea1a2f438e00019
+WOWOWライブ,P2p://generationnexxxt.com:19806/32a0a3d3f1f54d50af14f2fb0d3597e1
+WOWOWシネマ,P2p://generationnexxxt.com:19806/118aac938d16456ab3eda2a9e259b3fa
+スター?チャンネル1,P2p://generationnexxxt.com:19806/6759e1454fc6454a97bb8deeccc4804a
+スター?チャンネル2,P2p://generationnexxxt.com:19806/ef090d23f7244bd09d2b132dd7b9fef0
+スター?チャンネル3,P2p://generationnexxxt.com:19806/8b63602b924c44af8008ff3b08db8c01
+BSアニマックス,P2p://generationnexxxt.com:19806/ce9598c90ce54c15bc00d894e3b4982f
+J Sports 1,P2p://generationnexxxt.com:19806/227ef9c657764acb9515e68d4e65bbea
+J Sports 2,P2p://generationnexxxt.com:19806/8b5d5bd857e649efa0b1e9263d8ca71f
+J Sports 3,P2p://generationnexxxt.com:19806/22f6f477f6f848b583541980c9f087bc
+J Sports 4,P2p://generationnexxxt.com:19806/6d125610fe1745e9b27ef5d6f88302fd
+Green Channel,P2p://generationnexxxt.com:19806/1adccd3fe34c45fca9a826b721586180
+ゴルフネットワークHD,P2p://generationnexxxt.com:19806/86401e099eda4c04bfa16fa6a9dce871
+時代劇専門チャンネル,P2p://generationnexxxt.com:19806/fbc6e4a583684e9f8bfcbd47f6fad03f
+Music Japan TV,P2p://generationnexxxt.com:19806/eac0fadf3f7e4242b1282d1b3d9b4b08
+キッズステーションHD,P2p://generationnexxxt.com:19806/aa92838de18447d8993403c0d1b19718
+ディスカバリーチャンネル,P2p://generationnexxxt.com:19806/c0cf323bc9804ebfb4dd3265f5fd4261
+ナショナルジオグラフィック,P2p://generationnexxxt.com:19806/6b99b001030a4c009a719ee6dccdf8ed
+日テレNEWS 24,P2p://generationnexxxt.com:19806/37099dee855448b0845c0bce833c9a14
+旅チャンネル,P2p://generationnexxxt.com:19806/0201dfaf0ccb4c9288fc56724a0bbffc
 
 韩国,#genre#
-Arirang,mitv://generationnexxxt.com:19806/5260ebd503c84b62bb0c9cd0d1e33223
-KBS1,mitv://generationnexxxt.com:19806/003ff31b09d841ad9775c0fd703d7ca4
-KBS2,mitv://generationnexxxt.com:19806/2738ccfca9bf478fabe58a315dcab4af
-KBS Drama,mitv://generationnexxxt.com:19806/3ad3967ac71b4ec1b5f386a38bb6feee
-KBS Joy,mitv://generationnexxxt.com:19806/4a47b40749c443c59faac0700e061129
-SBS,mitv://generationnexxxt.com:19806/52bdf003e484446f83ee00f00fd5b90f
-SBS Biz,mitv://generationnexxxt.com:19806/dd4877981b474b3489c649836727d355
-JTBC,mitv://generationnexxxt.com:19806/4ec82c36dd4043df9f31f0b2ee907277
-EBS,mitv://generationnexxxt.com:19806/4c8f9aabbe534d29890f7a2d75f8b3b0
-YTN,mitv://generationnexxxt.com:19806/0d09e3a2d01b42f7921db3ada4647b2b
-Mnet,mitv://generationnexxxt.com:19806/7cf860c0828a4e4181e5801a11306088
-tvN,mitv://generationnexxxt.com:19806/45cb5d3ff4f842178bd262ac32891a0c
-OCN,mitv://generationnexxxt.com:19806/4475e43ba7684b34acb1711ddd2cf347
-OCN Movies,mitv://generationnexxxt.com:19806/440567fb2e054f1d81e5e130c2b3b14a
-TV Chosun,mitv://generationnexxxt.com:19806/56da69a61ea04b729b08dd03f24f8dde
-MBC,mitv://generationnexxxt.com:19806/eeec1b536c6e4401866b819b9f9331d9
-MBN,mitv://generationnexxxt.com:19806/231a17a181914f82a83bfa41c16fd683
-Tooniverse,mitv://generationnexxxt.com:19806/606e92a1a9484092ad790fe8ca7456d5
-SPOTV,mitv://generationnexxxt.com:19806/db790c95c4d34c02b9a280e4b4889af3
-JTBC GOLF,mitv://generationnexxxt.com:19806/31e1f7cc5d2b451683419f3842920201
-Channel 5,mitv://generationnexxxt.com:19806/017fd55e92854a829db7f5c8c3150376
-NBT,mitv://generationnexxxt.com:19806/6a9f6eb4f975417398c793903dc83e40
-TNN 16,mitv://generationnexxxt.com:19806/7462454333594bef83cd252fa653d14e
-JKN 18,mitv://generationnexxxt.com:19806/5e7619bcc3d648419a7be15d55b0a6df
-Voice TV,mitv://generationnexxxt.com:19806/410f7c30bf2c462da325f3e92aa87770
-Nation TV,mitv://generationnexxxt.com:19806/81cc25cf74bf4b7da0c9808eb71bbabd
-Workpoint TV,mitv://generationnexxxt.com:19806/7853aa1dfbce427ca19bca36ecc637d7
-true4U,mitv://generationnexxxt.com:19806/190b17acdeb249199f6d98b67c4e2cb2
-GMM 25,mitv://generationnexxxt.com:19806/f5027310387c484abc5ae165814af37c
-Channel 8,mitv://generationnexxxt.com:19806/057c93df99e844a18f1b9ccbfba9fb08
-Mono 29,mitv://generationnexxxt.com:19806/3cbbe1465cca4024abf9fe23377b579b
-MCOT,mitv://generationnexxxt.com:19806/b1128d0cfda64cf3b23cf9e57a0df8a4
-ONE,mitv://generationnexxxt.com:19806/542965f139384bafaeb797727b4a5240
-Thairath TV,mitv://generationnexxxt.com:19806/ad23d38f6a18443286cf0aeb1bb10f05
-Channel 3,mitv://generationnexxxt.com:19806/707caac6181641ec843aab24cc5193b1
-Amarin TV,mitv://generationnexxxt.com:19806/8624367116444cd984a9c2d62397fb56
-Channel 7,mitv://generationnexxxt.com:19806/ae06a3f04cd647fab63393ac3ba43692
-PPTV,mitv://generationnexxxt.com:19806/7bceb6a1351c4f538546eed405ec8ed4
-Thai Parliament TV,mitv://generationnexxxt.com:19806/da7d300585c943c4ba12762f1d1c0dcf
-Thai PBS,mitv://generationnexxxt.com:19806/32e2c08660124d7dae8c93085d5e82c7
-News 1,mitv://generationnexxxt.com:19806/ed92062ce02e4f978d104a3e1a94b850
-TVB Thai,mitv://generationnexxxt.com:19806/99c848d8d2b947348da447495b7f2c42
-Bluesky,mitv://generationnexxxt.com:19806/6c091bd3b2614d4a9244d0d1ea9720fc
-Top News,mitv://generationnexxxt.com:19806/2583f8f3552a4881ae24c14412298a42
-
+韩国|BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国|EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国|EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+韩国|KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国|KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
+韩国|KCTV 1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8
+韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+韩国|MBC UHD,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+韩国|NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国|TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+韩国|KBS NEWS,http://8.138.7.223/tv/korea.php?id=31
+韩国|KBS DRAMA,http://8.138.7.223/tv/korea.php?id=32
+韩国|KBS JOY,http://8.138.7.223/tv/korea.php?id=33
+韩国|KBS STORY,http://8.138.7.223/tv/korea.php?id=34
+韩国|KBS LIVE,http://8.138.7.223/tv/korea.php?id=35
+韩国|KBS KIDS,http://8.138.7.223/tv/korea.php?id=36
+韩国|KBS WORLD,http://8.138.7.223/tv/korea.php?id=37
+韩国|CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+韩国|Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国|Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩国|DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+韩国|TVN,http://www.mytvsuper.us.kg/live.php?id=tvn
+韩国|TVN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+韩国|TVN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+韩国|TVN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+韩国|TVN4,http://210.210.155.35/dr9445/h/h20/index.m3u8#http://210.210.155.35:80/dr9445/h/h20/02.m3u8
+韩国|tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?韩国|tvN Movies,https://tvlatina.live:1936/8006/8006/playlist.m3u8
+韩国|TVN Global ,http://210.210.155.37/dr9445/h/h21/index.m3u8
+韩国|TVN asia,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+韩国|TVNBN ,https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 
 马来,#genre#
 beIN Sports,mitv://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
